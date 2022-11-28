@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:0ebd9dad32406e11db17af9854937c9741e0a54f92db776e01cc1620ea909b60
+FROM  gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/kafka-controller@sha256:50bedd715d6011782af0c6ca5ad2b3638e3897f2e016771695abb876872aaa1d
