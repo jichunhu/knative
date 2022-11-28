@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative.dev/pkg/apiextensions/storageversion/cmd/migrate@sha256:a9c0601a1137cbca8fd697d9929f7ab4ac6671ab68bad4198721ba7f3449b027
+FROM  gcr.io/knative-releases/knative-kafka-broker-receiver:v1.6.10
