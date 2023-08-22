@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative-kafka-broker-receiver:v1.6.10
+FROM  k8s.gcr.io/kube-state-metrics/kube-state-metrics:main
